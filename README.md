@@ -1,4 +1,4 @@
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.001.png)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.001.png)
 
 **TASTY TRIP**
 
@@ -33,39 +33,39 @@
 
 - **Usecase Diagram  》**
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.002.png)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.002.png)
 
 - **게시판 관리 Usecase  》**
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.003.png)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.003.png)
 
 - **기본관리 Usecase  》** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.004.png)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.004.png)
 
 - **main Usecase  》** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.005.png)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.005.png)
 
 - **ERD Diagram  》**
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.006.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.006.jpeg)
 
 **《클래스 다이어그램》** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.007.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.007.jpeg)
 
 **[게시판 UML]** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.008.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.008.jpeg)
 
 **[나의여행지 UML]** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.009.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.009.jpeg)
 
 **[회원정보 UML]** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.010.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.010.jpeg)
 
 **[관광지 UML]** 
 
@@ -74,69 +74,69 @@
   - **랜덤으로 여행지 추천** 
   - **여행지 키워드 검색가능** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.011.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.011.jpeg)
 
 11 
 - **로그인** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.012.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.012.jpeg)
 
 - **회원가입** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.013.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.013.jpeg)
 
 - **내 정보(My Page)**
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.014.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.014.jpeg)
 
 12 
 
 - **회원정보 수정**
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.015.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.015.jpeg)
 
 - **회원 탈퇴** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.016.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.016.jpeg)
 
 13 
 
 - **카테고리별 관광지 조회** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.017.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.017.jpeg)
 
 - **관광지 상세 페이지** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.018.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.018.jpeg)
 
 - **관광지 저장** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.019.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.019.jpeg)
 
 - **나의여행지 조회** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.020.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.020.jpeg)
 
 16 
 - **게시판** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.021.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.021.jpeg)
 
 - **게시판 글쓰기** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.022.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.022.jpeg)
 
 17 
 
 - **게시판 글수정** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.023.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.023.jpeg)
 
 - **게시판 글삭제** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.024.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.024.jpeg)
 
 - **게시판 글조회** 
 
-![](Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.025.jpeg)
+![](/images/Aspose.Words.a723919e-e1d1-4eeb-b323-ce919cbcbb18.025.jpeg)
 18 
